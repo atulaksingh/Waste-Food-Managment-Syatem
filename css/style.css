@@ -1,0 +1,92 @@
+/* :root {
+  --primary-color: #7c3aed;
+}
+body {
+  margin: 0px;
+}
+
+.ullist {
+  text-align: right;
+  list-style-type: none;
+  text-decoration: none;
+  font-size: 1rem;
+}
+.list {
+  display: inline;
+  padding: 0rem 0.5rem;
+}
+.listitem {
+  overflow: hidden;
+  padding: 0.5rem 1rem;
+  color: white;
+}
+.list a {
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 21px;
+}
+.navigation {
+  background-color: var(--primary-color);
+  padding: 1rem;
+  color: white;
+}
+.nav_brand {
+  color: white;
+  font-weight: bold;
+  padding: 0rem;
+  font-size: 30px;
+}
+.container {
+} */
+* {
+  font-family: "Roboto", sans-serif;
+}
+.navbar {
+  background-color: black;
+}
+.navbar .container-fluid a {
+  text-decoration: none;
+  color: white;
+}
+.navbar-nav .nav-item a {
+  text-decoration: none;
+  color: white;
+  margin-right: 1rem;
+  font-weight: bold;
+}
+.navLink {
+  text-decoration: none;
+  color: white;
+}
+.colapse {
+  color: red;
+}
+.dropdrown {
+  background-color: blueviolet;
+}
+.about {
+  border: 2px solid black;
+  margin: 0 auto;
+}
+.about-us {
+  text-align: center;
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+#about-us {
+  min-height: 100vh;
+  height: 100vh;
+  padding-top: 88px;
+}
+.how-us {
+  text-align: center;
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+#how-us {
+  min-height: 100vh;
+  height: 100vh;
+  padding-top: 88px;
+}

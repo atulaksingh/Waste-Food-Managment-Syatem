@@ -1,0 +1,52 @@
+* {
+  font-family: "Roboto", sans-serif;
+}
+.navbar {
+  background-color: black;
+}
+.navbar .container-fluid a {
+  text-decoration: none;
+  color: white;
+}
+.navbar-nav .nav-item a {
+  text-decoration: none;
+  color: white;
+  margin-right: 1rem;
+  font-weight: bold;
+}
+.navLink {
+  text-decoration: none;
+  color: white;
+}
+.colapse {
+  color: red;
+}
+.dropdrown {
+  background-color: black;
+}
+.login-name {
+  text-align: center;
+}
+.log-page {
+  border: 2px solid red;
+  background-color: black;
+  color: white;
+}
+.password {
+  /* padding: 6px; */
+  width: 20rem;
+  /* text-align: center; */
+  font-weight: bold;
+  /* border-radius: 2rem; */
+  /* margin-top: 1rem; */
+  /* overflow: hidden; */
+}
+.mailid {
+  /* text-align: center; */
+  /* padding: 6px; */
+  width: 20rem;
+  /* border-radius: 2rem; */
+  font-weight: bold;
+  /* margin-top: 1rem; */
+  /* overflow: hidden; */
+}
